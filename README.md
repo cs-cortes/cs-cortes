@@ -177,7 +177,7 @@ Currently focusing on:
 
 I'm interested in connecting with professionals and organizations working in **Data Analytics and Cybersecurity**.
 
-**LinkedIn:** [Add your LinkedIn profile]
+**LinkedIn:** 
 
 ---
 
