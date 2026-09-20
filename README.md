@@ -34,7 +34,6 @@ I enjoy understanding data, identifying inconsistencies, investigating patterns,
 
 * Data Engineering fundamentals
 * ETL & data pipelines
-* Advanced SQL
 
 ---
 
