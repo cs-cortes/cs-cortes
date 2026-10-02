@@ -21,7 +21,7 @@ My Quality Control background strengthened my analytical mindset, attention to d
 
 ## 📂 Featured Projects
 
-### 📊 [Cyclistic Bike-Share Analysis]([repo link])
+### 📊 [Cyclistic Bike-Share Analysis](https://github.com/cs-cortes/data-analysis-portfolio/tree/f5e4a65686567faa646d92dfdd8c2d22ea1ff6e3/projects/cyclistic-bike-share-analysis)
 
 Analysis of 12 months of bike-share data (6M+ records) to explore usage patterns and differences between user types.
 
@@ -29,7 +29,7 @@ Analysis of 12 months of bike-share data (6M+ records) to explore usage patterns
 * Ride duration analysis and user-type comparisons
 * Identification and investigation of anomalies
 
-**Tools:** Python, Pandas, Jupyter Notebook [+ SQL, if the repo includes it]
+**Tools:** Python, Pandas, Jupyter Notebook 
 
 ---
 
@@ -45,7 +45,7 @@ A relational e-commerce dataset used to practice data profiling, validation, and
 
 ---
 
-### 🔐 [Phishing Email Investigation — Simulated SOC Case]([repo link])
+### 🔐 [Phishing Email Investigation — Simulated SOC Case]
 
 A simulated Blue Team investigation of a suspected phishing email in a simulated Microsoft 365 environment.
 
