@@ -12,10 +12,10 @@ My Quality Control background strengthened my analytical mindset, attention to d
 
 ## 🛠️ Technical Skills
 
-**Data & Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Tableau
-**Databases:** PostgreSQL, relational database concepts, data validation
-**Cybersecurity:** Phishing analysis, email security, IOC identification, incident investigation, MITRE ATT&CK
-**Tools:** Jupyter Notebook, VS Code, Git, GitHub
+* **Data & Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Tableau
+* **Databases:** PostgreSQL, relational database concepts, data validation
+* **Cybersecurity:** Phishing analysis, email security, IOC identification, incident investigation, MITRE ATT&CK
+* **Tools:** Jupyter Notebook, VS Code, Git, GitHub
 
 ---
 
