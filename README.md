@@ -33,7 +33,7 @@ Analysis of 12 months of bike-share data (6M+ records) to explore usage patterns
 
 ---
 
-### 🛒 [Online Shop Data Analysis]([repo link])
+### 🛒 [Online Shop Data Analysis](https://github.com/cs-cortes/data-analysis-portfolio/tree/f5e4a65686567faa646d92dfdd8c2d22ea1ff6e3/projects/online-shop)
 
 A relational e-commerce dataset used to practice data profiling, validation, and SQL analysis.
 
